@@ -1,2 +1,6 @@
 # Front-End-Start-from-zero
-Hello Github Desktop
+## 关于墙的一些科普
+    请看 OverWall.md
+## 其他
+    持续更新中...
+    欢迎发[Gmail](mailto:Ciefdx@gmail.com) 和 Issues催我跟新 & 问问题.
