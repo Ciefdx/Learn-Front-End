@@ -3,4 +3,4 @@
 请看 OverWall.md
 ## 其他
 持续更新中...
-欢迎发 [Gmail](mailto:ciefdx@gmail.com) 和 Issues催我跟新 & 问问题.
+欢迎发 [Gmail](mailto:Ciefdx@gmail.com) 和 Issues催我跟新 & 问问题.
