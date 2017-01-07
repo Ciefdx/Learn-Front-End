@@ -40,7 +40,7 @@ Shadowsocks（中文名称：影梭）是使用Python、C++、C#等语言开发�
 Shadowsocks使用Socks5代理方式 ,并分为服务器端和客户端。在使用之前，需要先将服务器端部署到服务器上面，然后通过客户端连接并创建本地代理。
 
 ### **停止维护**
-![Clwwindy Leave](http://p1.bpimg.com/4851/eaa7ce4ce8519543.jpg)
+![Clwwindy Leave](http://p1.bpimg.com/4851/eaa7ce4ce8519543.jpg)  
 2015年8月22日，作者Clowwindy在GitHub上称被'~~有关部门~~'约谈喝茶, **并被迫删除Github的源码及相关文档**。<br>
 但Shadowsocks属于开源项目，所以删除前已经有人备份，同时由其他志愿者跟进维护原版 Shadowsocks 客户端，而其他基于Shadowsocks项目的第三方项目比如 ShadowsocksR 等继续维护更新
 
